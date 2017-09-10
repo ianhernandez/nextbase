@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ianhernandez/nextbase/issues"
   },
-  "homepage": "https://github.com/ianhernandez/nextbase#readme"
+  "homepage": "https://github.com/ianhernandez/nextbase#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
